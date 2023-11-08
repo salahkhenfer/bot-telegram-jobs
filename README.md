@@ -1,7 +1,10 @@
 ﻿# bot-telegram-jobs
--start the code 
+ #About code : 
+ this code can send the jobs when do you send a word "/start"  
+  # how to work 
+- start the code 
   ``` node index```
 
 
--send to telegram 
+- send to telegram 
 ``` /start```
