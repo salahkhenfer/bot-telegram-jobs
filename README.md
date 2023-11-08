@@ -1,8 +1,7 @@
 ﻿# bot-telegram-jobs
-  ## start the code
-  
-``` node index```
+-start the code 
+  ``` node index```
 
 
-send to telegram 
+-send to telegram 
 ``` /start```
